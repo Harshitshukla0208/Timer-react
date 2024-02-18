@@ -1,4 +1,3 @@
-```markdown
 # Countdown Timer App
 
 A simple countdown timer application built with React.
@@ -54,6 +53,5 @@ Contributions are welcome! Please feel free to fork this repository and submit p
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 Feel free to customize this template with additional information about your project, such as how to deploy it, additional features, or any other relevant details.
